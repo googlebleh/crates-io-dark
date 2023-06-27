@@ -19,6 +19,7 @@
         color: #eee !important;
     }
 
+    div[class^='_docs_'],
     div[class^='_header_'],
     div[class*=' _header_'] {
         background-color: #222 !important;
@@ -101,6 +102,10 @@
     #results a.dropdown {
         background-color: #222 !important;
         color: #eee !important;
+    }
+
+    button[class^='_copy-button_'] {
+        background-color: #eee;
     }
 
     #results .dropdown-button {
@@ -213,6 +218,9 @@
         border-bottom: 0.25rem solid #666;
     }
 
+    code {
+        color: black;
+    }
     section[class^='_crate-readme_'] p code,
     section[class*=' _crate-readme_'] p code {
         background-color: #222;
@@ -266,6 +274,10 @@
 
     nav svg {
         filter: invert(100%);
+    }
+
+    div[class^='_container_'] {
+        color: black;
     }
 
     div[class^='_graph-data'],
