@@ -11,8 +11,8 @@ to keep this usercss working but I cannot give any guarantees.
 
 ## Install
 
-Install [Stylus](https://addons.mozilla.org/firefox/addon/styl-us/) and then
-use Stylus to install [the crates-io-dark usercss][usercss].
+1. Install [Stylus](https://addons.mozilla.org/firefox/addon/styl-us/)
+2. [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)][usercss-raw]
 
 ## Screenshots
 
@@ -40,5 +40,6 @@ the [LICENSE](./LICENSE) file for a plaintext version.
 [![CC BY-SA 4.0+](https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 "CC BY-SA 4.0+")](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[usercss]: https://github.com/JonathanHelianthicusDoe/crates-io-dark/raw/master/crates-io-dark.user.css
+[usercss]: crates-io-dark.user.css
+[usercss-raw]: https://github.com/googlebleh/crates-io-dark/raw/master/crates-io-dark.user.css
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/legalcode
